@@ -25,6 +25,7 @@
             [advent-of-code.day-24]
             [advent-of-code.day-25]))
 
+
 (defn read-input
   [day]
   (slurp (clojure.java.io/resource day)))
